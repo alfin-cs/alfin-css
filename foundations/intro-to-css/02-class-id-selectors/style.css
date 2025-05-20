@@ -1,0 +1,18 @@
+.para{
+    background-color:rgba(202, 56, 100,40%);
+    font-family: Verdana,"DejaVu sans",sans-serif;
+
+}
+.two{
+    font-size: 24px;
+
+}
+#div1{
+    color: blue;
+    font-size:36px;
+}
+#div2{
+    background-color: rgb(122, 221, 127);
+    font-size:24px;
+    font-weight: bold;
+}
